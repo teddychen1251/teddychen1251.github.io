@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "The Man Keeping Us Up"
+date:   2018-01-16
+categories:
+---
+There's a song by The Killers titled, "The Man". The chorus goes like this:
+<pre>
+<i>
+I got gas in the tank
+I got money in the bank
+I got news for you baby, you're looking at the man
+</i>
+</pre>
+It's a song about being the classic "macho man" holding it all together. Whether this goes against your ideals of gender roles or whatever, there certainly is "the man" when it comes to the economy: government. Government sets the rules and regulations for our capitalistic society.
+
+<img src="/assets/machoGov.png" alt="The Man" style="display:block;margin:auto;height:50vh" text-align="center">
+
+Government takes care of the needs that we as individuals can't. An obvious example is defense: people might complain about the <a href="https://www.nationalpriorities.org/budget-basics/federal-budget-101/spending/">military receiving $598 billion of the federal budget (circa 2015)</a>, I'm sure most of us can agree that the military is to be handled by the government. It's not as if we can each hire our own private army to protect our towns. Even if someone did, the neighbors would pay nothing but still receive protection <i>just because they live next door</i>! That's why we all fairly (in the sense that we all do) pay taxes to the government to fund the military for us, so we can focus on our own endeavors.
+
+Government also provides a set of laws so we can function as a society. Like a game needs rules, we need laws to have order--especially in the economy. There are basic ones like criminalizing murder and theft: if everyone stole from and killed each other, nobody would have the time and security to start a business (though that'd probably be the least of our worries). Then there're more complicated things like copyright and patents. Copyright and patents protect firms that take the risk of innovation. When a firm produces something worthwhile, they're granted ownership rights for their hard work. But there are still qualifications like <a href="https://en.wikipedia.org/wiki/Fair_use">Fair Use</a>, which is why I can use images that aren't mine on this blog. The government defines what is permissible and what is not, and that makes our transactions quicker and easier (as opposed to no rules).
+
+So the next time people say they're being "kept down by the Man" (A.K.A. government), be sure to remember that he's the one also holding us up.
