@@ -257,7 +257,7 @@ function shoot(){
     myBullets.push(new component(20, 2, "black", myGamePiece.x + myGamePiece.width, myGamePiece.y + myGamePiece.height / 2, "nah"));
     if(myGamePiece.triShot){
       myBullets.push(new component(20, 2, "black", myGamePiece.x + myGamePiece.width/2, myGamePiece.y + myGamePiece.height / 2 - 3, "nah"));
-      myBullets.push(new component(20, 2, "black", myGamePiece.x + myGamePiece.width/2, myGamePiece.y + 3 * myGamePiece.height / 2 + 3, "nah"));
+      myBullets.push(new component(20, 2, "black", myGamePiece.x + myGamePiece.width/2, myGamePiece.y + myGamePiece.height / 2 + 3, "nah"));
     }
     myGameArea.lastShot = myGameArea.frameno;
   }
