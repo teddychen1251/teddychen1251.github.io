@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Game Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0">
+    <link rel="stylesheet" type="text/css" href="game.css">
+    <script src="game.js"></script>
+</head>
+<body onload="startGame()">
+    <!--<div style="text-align:center;width:960px;">
+        <button onmousedown="accelerateup()" ontouchstart="accelerateup()" onmouseup="stop()">UP</button><br><br>
+        <button onmousedown="accelerateleft()" ontouchstart="accelerateleft()" onmouseup="stop()">LEFT</button>
+        <button onmousedown="accelerateright()" ontouchstart="accelerateright()" onmouseup="stop()">RIGHT</button><br><br>
+        <button onmousedown="acceleratedown()" ontouchstart="acceleratedown()" onmouseup="stop()">DOWN</button>
+    </div>-->
+    <div id="restart-button" style="position:absolute;top:220px;left:390px;display:none;">
+      <button onclick="restartGame()" style="font-size:60px">Restart</button>
+    </div>
+    <button style="display:block;" onclick="toggleSound()">Toggle Sound</button>
+</body>
+
+</html>
