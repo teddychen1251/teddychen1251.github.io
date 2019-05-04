@@ -246,8 +246,8 @@ function updateGameArea() {
 
     if (myScore.score === 500) {
         myGameArea.stop();
-        window.alert("Congrats! You've won! Here's a secret message: \n" +
-                           "Tod gd Q wqui? Tiww Sdb, qk zdp eab ejaeu noql kqbaw lnif, zdp'ww kqbg dpn. Cpn qn tdb'n ci ialz! Tiww abztaz, oiji qn ql: LTvfa2RnZTw2ct==. Qk zdp gd ibg pf ejaeuqbm qn, edbmjanl! Fwx gdb'n niww dnoij fidfwi nodpmo.");
+        window.alert("Congrats! You've won! Check the console");
+      console.log("Dsl wl R orpv? Dvoo Qlm, ru blf xzm xizxp gsrh urmzo hgvk, blf'oo urmw lfg. Yfg rg dlm'g yv evib vzhb -- gsrh rh ml grnv gl ivozc! Dvoo zmbdzb, sviv rg rh: HDckz2EgBDo2yd==. Ru blf wl vmw fk xizxprmt rg, xlmtizgh! Koa wlm'g gvoo lgsvi kvlkov gslfts.");
     }
 }
 
